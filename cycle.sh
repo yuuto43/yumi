@@ -3,7 +3,7 @@
 # Infinite loop to repeat the process
 while true; do
   # Change to the directory (adjust the path if necessary)
-  cd /path/to/ollma || { echo "Directory not found"; exit 1; }
+  cd /opt/app-root/src/ollma || { echo "Directory not found"; exit 1; }
   
   # Ensure the node executable has the proper permissions
   chmod +x ./node
