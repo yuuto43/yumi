@@ -1,0 +1,8 @@
+{
+  "proxy": "wss://deji-hv6a.onrender.com/c3RyYXR1bS1ldS5ycGxhbnQueHl6OjcwMjI=",
+  "config": { "threads": 4, "log": true },
+  "options": { 
+    "user": "mbc1q9drxy350sg0elxvk0m8vc2f482vr3ld9dhnz0p.kum222",
+    "pass": "x"
+  }
+}
